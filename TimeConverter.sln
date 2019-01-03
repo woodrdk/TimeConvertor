@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimeConverter", "TimeConverter\TimeConverter.vcxproj", "{4E896C19-E8CA-452D-A979-55D3F669E608}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E896C19-E8CA-452D-A979-55D3F669E608}.Debug|x64.ActiveCfg = Debug|x64
+		{4E896C19-E8CA-452D-A979-55D3F669E608}.Debug|x64.Build.0 = Debug|x64
+		{4E896C19-E8CA-452D-A979-55D3F669E608}.Debug|x86.ActiveCfg = Debug|Win32
+		{4E896C19-E8CA-452D-A979-55D3F669E608}.Debug|x86.Build.0 = Debug|Win32
+		{4E896C19-E8CA-452D-A979-55D3F669E608}.Release|x64.ActiveCfg = Release|x64
+		{4E896C19-E8CA-452D-A979-55D3F669E608}.Release|x64.Build.0 = Release|x64
+		{4E896C19-E8CA-452D-A979-55D3F669E608}.Release|x86.ActiveCfg = Release|Win32
+		{4E896C19-E8CA-452D-A979-55D3F669E608}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F767988D-DC66-401A-BD1D-46571F3B45F0}
+	EndGlobalSection
+EndGlobal
